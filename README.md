@@ -13,9 +13,12 @@ efficiency - it helps to optimize developer workflow while maintaining high qual
 
 
 2.Identify and describe at least three key milestones in the evolution of software engineering.  
-.mastering complexity
-Mastering process
-Mastering machine
+Mastering Complexity:
+Milestone: Structured/Modular Programming (1970s-80s). Organized code for better management.
+Mastering Process:
+Milestone: Waterfall Model (1970s-80s). Defined a structured software development lifecycle.
+Mastering Machine:
+Milestone: Compilers & Automation. Increased efficiency and productivity.
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
